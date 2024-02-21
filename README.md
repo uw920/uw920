@@ -9,7 +9,7 @@
 - 熟悉 C/C++, Linux Shell, JavaScript
 - 熟悉 Docker, Elasticsearch, Jira, Jenkins, Jmeter, Postman 等
 
-**Languages and tools:** 
+### Languages and tools:
 
 
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript)
@@ -19,7 +19,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**Career** 
+### Career
 
 
 - 2004.03 ~ 2023.08 思科系统
@@ -40,7 +40,7 @@
   </picture>
 
 <!-- 统计使用语言图 -->  
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uw920&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uw920&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 
 
