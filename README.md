@@ -11,41 +11,39 @@
 - 熟悉 C/C++, Linux Shell, JavaScript
 - 熟悉 Docker, Elasticsearch, Jira, Jenkins, Jmeter, Postman 等
 
+<!-- knock code pictures 敲代码的图片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img align="right"src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
 
-
+**Career** 
+- 2004.03 ~ 2023.08 思科系统
+  + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
+  + 对于后台服务的性能, 从性能指标分析, 到排查中间遇到的瓶颈障碍, 进一步给出性能调优建议, 优化产线布局
+![Static Badge](https://img.shields.io/badge/WebEx-blue?style=flat&logo=webex&logoColor=green&labelColor=blue&color=green)
+![Static Badge](https://img.shields.io/badge/Cisco-blue?style=flat&logo=cisco&logoColor=red)
 
 
 **Languages and tools:**
- <p align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-  
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Static Badge](https://img.shields.io/badge/CentOS-yellow?style=flat&logo=CentOS)
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://media.licdn.com/dms/image/sync/D5610AQFTAFardpcaJw/image-shrink_160/0/1706793326402?e=1709107200&v=beta&t=4nGzhNjp7XUGI4PS3kJBPlUVfwYMwXfuZ0AKp8BqXs4"></code>
 
 
-**Career** 
 
-- 2004.03 ~ 2023.08 思科系统
-  + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
-  + 对于后台服务的性能, 从性能指标分析, 到排查中间遇到的瓶颈障碍, 进一步给出性能调优建议, 优化产线布局
   
-![Static Badge](https://img.shields.io/badge/WebEx-blue?style=flat&logo=webex&logoColor=green&labelColor=blue&color=green)
-![Static Badge](https://img.shields.io/badge/Cisco-blue?style=flat&logo=cisco&logoColor=red)
 
 
 
- <!-- knock code pictures 敲代码的图片 -->
+
+
 
 
 <!-- 统计使用语言图 -->  
