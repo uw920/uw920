@@ -27,7 +27,8 @@
 
 
 - 2004.03 ~ 2023.08 思科系统
-  + 16年后台测试开发, 2年语音测试开, 1年半前端视频测试
+  + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
+  + 对于后台服务的性能, 从性能指标分析, 到排查中间遇到的瓶颈障碍, 进一步给出性能调优建议, 优化产线布局
   
 ![Static Badge](https://img.shields.io/badge/WebEx-blue?style=flat&logo=webex&logoColor=green&labelColor=blue&color=green)
 ![Static Badge](https://img.shields.io/badge/Cisco-blue?style=flat&logo=cisco&logoColor=red)
