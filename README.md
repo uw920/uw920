@@ -11,8 +11,18 @@
 - 熟悉 C/C++, Linux Shell, JavaScript
 - 熟悉 Docker, Elasticsearch, Jira, Jenkins, Jmeter, Postman 等
 
-### Languages and tools:
 
+
+
+
+**Languages and tools:**
+ <p align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+  
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
@@ -24,7 +34,7 @@
 <code><img height="20" src="https://media.licdn.com/dms/image/sync/D5610AQFTAFardpcaJw/image-shrink_160/0/1706793326402?e=1709107200&v=beta&t=4nGzhNjp7XUGI4PS3kJBPlUVfwYMwXfuZ0AKp8BqXs4"></code>
 
 
-### Career
+**Career** 
 
 - 2004.03 ~ 2023.08 思科系统
   + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
@@ -36,11 +46,7 @@
 
 
  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+
 
 <!-- 统计使用语言图 -->  
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uw920&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
