@@ -1,6 +1,6 @@
 # Atom GitHub Profile README
 
-### About me
+### About me:
 
 大家好,我是Atom. 本人有着丰富的项目经验, 在近20年的外企工作生涯中,从预测到敏捷, 再到 devops, 既带领过项目团队, 也帮助团队构建自动化测试框架, 并完现90%以上测试用例的自动化. 专注于后端数据, 语音, 视频测试，同时也熟悉前端App用户体验.
 - 精通使用 Java, Python 构建自动化测试框架(TestNG/Pytest)和测试脚本, 工具等, 有着一定的开发能力, 对 C/C++和 Java 产品有着丰富的测试经验. 
@@ -18,17 +18,17 @@
   <img align="right"src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
-**Career** 
+### Career:
 
 - 2004.03 ~ 2023.08 思科系统
   + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
   + 对于后台服务的性能, 从性能指标分析, 到排查中间遇到的瓶颈障碍, 进一步给出性能调优建议, 优化产线布局
   
-![Static Badge](https://img.shields.io/badge/WebEx-blue?style=flat&logo=webex&logoColor=green&labelColor=blue&color=green)
-![Static Badge](https://img.shields.io/badge/Cisco-blue?style=flat&logo=cisco&logoColor=red)
+  ![Static Badge](https://img.shields.io/badge/WebEx-blue?style=flat&logo=webex&logoColor=green&labelColor=blue&color=green)
+  ![Static Badge](https://img.shields.io/badge/Cisco-blue?style=flat&logo=cisco&logoColor=red)
 
 
-**Languages and tools:**
+### Languages and tools:
 
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
