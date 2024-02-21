@@ -1,5 +1,7 @@
 # Atom GitHub Profile README
 
+### About me
+
 大家好,我是Atom. 本人有着丰富的项目经验, 在近20年的外企工作生涯中,从预测到敏捷, 再到 devops, 既带领过项目团队, 也帮助团队构建自动化测试框架, 并完现90%以上测试用例的自动化. 专注于后端数据, 语音, 视频测试，同时也熟悉前端App用户体验.
 - 精通使用 Java, Python 构建自动化测试框架(TestNG/Pytest)和测试脚本, 工具等, 有着一定的开发能力, 对 C/C++和 Java 产品有着丰富的测试经验. 
 - 良好地沟通能力, 经常和不同区域的团队交流工作. 包括不限于杭州, 上海, 美国, 印度等. 
@@ -10,7 +12,6 @@
 - 熟悉 Docker, Elasticsearch, Jira, Jenkins, Jmeter, Postman 等
 
 ### Languages and tools:
-
 
 ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -24,7 +25,6 @@
 
 
 ### Career
-
 
 - 2004.03 ~ 2023.08 思科系统
   + 16年后台测试开发, 2年语音测试开发, 1年半前端视频测试
